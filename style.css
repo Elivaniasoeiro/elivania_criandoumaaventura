@@ -1,0 +1,17 @@
+body {
+    background-color: palevioletred; 
+    color:rgb(90, 57, 15);
+    font-family: "Playwrite CU", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+ button {
+
+    background-color: rgb(243, 243, 24);
+    color: rgb(131, 92, 168);
+    font-family: "Playwrite CU", cursive;
+ }
+
