@@ -13,5 +13,18 @@ body {
     background-color: rgb(243, 243, 24);
     color: rgb(131, 92, 168);
     font-family: "Playwrite CU", cursive;
+
+
+    .passo {
+        display: none;
+    }
+
+    .passo.ativo {
+        display:block;
+    }
+    
  }
+
+
+
 
